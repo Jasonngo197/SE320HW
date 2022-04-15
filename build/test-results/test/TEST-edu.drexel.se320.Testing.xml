@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.drexel.se320.Testing" tests="26" skipped="0" failures="0" errors="0" timestamp="2022-04-14T02:34:02" hostname="DESKTOP-DOI31NH" time="0.035">
+  <properties/>
+  <testcase name="boolean_array()" classname="edu.drexel.se320.Testing" time="0.019"/>
+  <testcase name="duplicate_string()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="middle_index_string_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="last_index_string_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="float_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="even_num_string_elements()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="duplicate_int()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="duplicates_only_int()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="even_num_int_elements()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="first_index_int_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="no_element_in_array()" classname="edu.drexel.se320.Testing" time="0.002"/>
+  <testcase name="last_index_int_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="unsorted_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="first_index_string_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="test1()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="int_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="string_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="duplicates_only_string()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="lower_out_of_bound()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="null_element_in_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="upper_out_of_bound()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="no_such_int_element_in_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="double_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="look_for_null_element_in_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="middle_index_int_array()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="no_such_string_element_in_array()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
